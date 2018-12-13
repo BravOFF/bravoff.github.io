@@ -10,8 +10,8 @@
 Редакцию 1С-Битрикс: Управление сайтом - Эксперт всё еще можно скачать по старым ссылкам и это очень радует))
 Выкачивайте пока есть возможность.
 
-- [http://www.1c-bitrix.ru/download/expert_encode_php5.zip](http://www.1c-bitrix.ru/download/expert_encode_php5.zip)
-- [http://www.1c-bitrix.ru/download/expert_encode_php5.tar.gz](http://www.1c-bitrix.ru/download/expert_encode_php5.tar.gz)
+- http://www.1c-bitrix.ru/download/expert_encode_php5.zip
+- http://www.1c-bitrix.ru/download/expert_encode_php5.tar.gz
  ```
   
 
